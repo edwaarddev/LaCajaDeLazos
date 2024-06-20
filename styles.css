@@ -1,0 +1,58 @@
+#img1 {
+    width: 100px;
+    height: auto;
+}
+
+#logoig {
+    width: 20px;
+    height: auto;
+}
+
+.encabezado {
+    background-color: #fff5e1;
+    padding: 60px;
+    box-shadow: rgba(0, 0, 0, 0.08) -2px 0px 3px 0px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+#socialMedia {
+    position: relative;
+}
+
+#logoIg {
+    position: absolute;
+    width: 20px;
+    bottom: 100%;
+    left: 500%;
+}
+
+#logoFb {
+    position: absolute;
+    width: 20px;
+    bottom: 101%;
+    left: 530%;
+}
+
+.container {
+    position: relative;
+}
+
+#l {
+    width: 20px;
+    border: none; /* Elimina el borde */
+    background-color: transparent; /* Asegúrate de que el fondo sea transparente */
+    padding: 0; /* Elimina cualquier relleno alrededor del botón */
+}
+
+#l img {
+    display: block; /* Para que la imagen se muestre como bloque */
+    width: 100%; /* Ajusta el ancho de la imagen al tamaño del botón */
+    height: auto;
+    
+}
+
+
